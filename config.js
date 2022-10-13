@@ -134,13 +134,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「 JEGA-BOT-V1 」' //Main Watermark
-global.wm2 = '========== WH-MODS-BOT-V1 ==========
+global.wm2 = '========== JEGA-BOT-V1 ==========
 global.wm3 = '⫹⫺ JEGA-BOT-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By JEGA-BOT`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.author = '                「 JEGA  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
